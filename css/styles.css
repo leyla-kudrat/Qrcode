@@ -1,0 +1,28 @@
+body{
+    background-color: #d7eff9;
+}
+.main-box{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    display: inline-block;
+    margin-top: 100px ;
+    margin-left: 600px;
+    text-align: center;
+    padding: 50px 30px 60px 30px;
+    border-radius: 25px;   
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+.one{
+    margin-bottom: 0;
+}
+.two{
+    margin-top: 0;
+
+}
+p{
+    margin-top: 50px;
+    color: gray;
+}
